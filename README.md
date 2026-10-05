@@ -2,7 +2,7 @@
 
 Dashboard interactivo sobre ~98 mil pedidos de un e-commerce brasileño (2016–2018).
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Herramientas
 Power BI (Power Query, modelo relacional, DAX) · Dataset: Brazilian E-Commerce Public Dataset by Olist (Kaggle)
